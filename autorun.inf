@@ -1,0 +1,3 @@
+[autorun] 
+open=vlc-2.1.3\vlc --loop --fullscreen --quiet --no-video-title-show cryo-cell.xspf 
+label=Cryo-Cell Educational Video
